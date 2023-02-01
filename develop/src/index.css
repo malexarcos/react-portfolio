@@ -4,3 +4,17 @@ body {
     /* background-position: center; */
 }
 
+/* Navbar {
+    background-image: url(./assets/background/pexels-emre-can-acer-2110951.jpg);
+    background-size: cover;
+} */
+
+footer {
+    font-size: 60px;
+    align-items: center;
+}
+
+p {
+    font-size: 30px;
+}
+
