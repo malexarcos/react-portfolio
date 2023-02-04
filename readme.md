@@ -6,4 +6,4 @@ creating a portfolio so that future employers can see my personal work and progr
 Alex 
 
 ### Languages used
-javaScript, react, css
+javaScript, react, css, html
