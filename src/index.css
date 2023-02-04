@@ -1,0 +1,39 @@
+body {
+    background-image: url('./assets/background/IMG_2135.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.main-nav {
+    background-image: url('./assets/background/pexels-emre-can-acer-2110951.jpg');
+    background-size: cover;
+}
+
+
+footer {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin-inline: 1vw;
+}
+
+p {
+    font-size: 30px;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+/* 
+we need app to be full screen
+then we need to make our nav a certain %
+then our footer
+or we can make our Page like 80vh and everything else will fit the rest
+*/
