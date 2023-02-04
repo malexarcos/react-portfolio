@@ -6,8 +6,7 @@ function About() {
     return (
             <div class="about">
                 <p>
-                Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
-
+                I’m currently starting in software development by going through a bootcamp at Southern Methodist University where I received my certificate in Full Stack Web Development. In that program I have learned how to create various applications. In that that time I learned the importance of writing readable and maintainable code. I continue to further myself by learning new technologies and improve as a developer in a fast-changing industry.
                 </p>
             </div>
     );

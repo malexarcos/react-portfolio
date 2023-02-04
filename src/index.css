@@ -1,5 +1,5 @@
 body {
-    background-image: url('./assets/background/IMG_2135.jpg');
+    background-image: url('./assets/background/pexels-scott-webb-532563.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -21,7 +21,7 @@ footer a {
 }
 
 p {
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .home {
@@ -30,6 +30,10 @@ p {
     justify-content: space-between;
 }
 
+.my-2 {
+    font-size: 30px;
+    color: #00FFFF;
+}
 
 /* 
 we need app to be full screen
