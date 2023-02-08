@@ -35,6 +35,9 @@ p {
     color: #00FFFF;
 }
 
+.my-container {
+    min-height: 100vh !important;
+}
 /* 
 we need app to be full screen
 then we need to make our nav a certain %

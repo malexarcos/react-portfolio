@@ -22,7 +22,7 @@ function page({currentPage}) {
       };
 
       return(
-        <Container>
+        <Container className="my-container">
          {renderPage()}
         </Container>
       )
