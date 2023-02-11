@@ -36,6 +36,12 @@ function Portfolio() {
           link: "https://drive.google.com/file/d/1g_DiA5Hg6w9mkIUiwEyHsQeYI7yqfJ8N/view",
           repo: "https://github.com/malexarcos/ORM-Ecommerce"
         },
+        {
+          name: 'Vitual-Event-Pro',
+          description: 'JavaScript, React, Apollo',
+          link: "unavailable",
+          repo: "https://github.com/malexarcos/react-portfolio"
+        },
 
       ]);
 
